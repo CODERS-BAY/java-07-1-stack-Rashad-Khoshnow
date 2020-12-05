@@ -4,7 +4,7 @@
 
 ### Java 7.1
 
-Implementiere einen IntStack! Ein Stack ist ein Stapel, der immer die Dinge zuerst abarbeitet, die er zuletzt bekommen hat nach dem `Last in first out` Prinzip.
+Implementiere einen com.codersbay.IntStack! Ein Stack ist ein Stapel, der immer die Dinge zuerst abarbeitet, die er zuletzt bekommen hat nach dem `Last in first out` Prinzip.
 Die Klasse Stack sollte folgende Methoden haben: 
 * void push(int newElement) 
     * fügt ein neues Element oben in den Stack ein
